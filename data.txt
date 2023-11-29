@@ -1,0 +1,500 @@
+  1   Book 1  Author 83 Literature  Publisher 9 1954  8 2.62
+  2   Book 2  Author 71    Science Publisher 15 1986  1 4.26
+  3   Book 3  Author 42        Art  Publisher 6 1985  2 4.31
+  4   Book 4  Author 85  Education Publisher 49 2018  7 1.07
+  5   Book 5  Author 28    History Publisher 22 2020  6 1.06
+  6   Book 6  Author 31  Education Publisher 14 2015 10 0.55
+  7   Book 7  Author 80        Art  Publisher 7 1994  4 1.17
+  8   Book 8  Author 80    Science  Publisher 7 1992  6 0.62
+  9   Book 9  Author 65        Art Publisher 39 2008  9 3.96
+ 10  Book 10  Author 17    Science  Publisher 5 1973  1 1.84
+ 11  Book 11  Author 93    Science Publisher 18 1973 10 1.43
+ 12  Book 12  Author 90    History Publisher 18 1979  0 3.99
+ 13  Book 13  Author 60    Science  Publisher 7 1978  6 4.95
+ 14  Book 14 Author 100    Science Publisher 24 1963  0 0.64
+ 15  Book 15  Author 79    Science Publisher 23 1965  1 4.40
+ 16  Book 16  Author 55 Literature  Publisher 8 1997  0 4.07
+ 17  Book 17  Author 37    History  Publisher 7 2006  9 2.42
+ 18  Book 18  Author 36 Literature Publisher 34 1962  7 4.85
+ 19  Book 19  Author 40    Science Publisher 12 2010  0 4.74
+ 20  Book 20  Author 55    Science Publisher 15 2008  9 4.59
+ 21  Book 21  Author 15  Education Publisher 27 2011  4 4.83
+ 22  Book 22  Author 51 Literature Publisher 49 1980  1 0.95
+ 23  Book 23  Author 75    History Publisher 50 2022  1 2.32
+ 24  Book 24  Author 67  Education Publisher 15 1965  4 2.14
+ 25  Book 25  Author 34    Science Publisher 39 1957 10 4.86
+ 26  Book 26  Author 32 Literature Publisher 46 2022  9 3.08
+ 27  Book 27  Author 55        Art Publisher 50 1978 10 3.99
+ 28  Book 28  Author 46  Education Publisher 29 1968  5 1.21
+ 29  Book 29  Author 72    Science Publisher 26 1991  5 4.64
+ 30  Book 30  Author 70  Education  Publisher 7 2003  3 1.20
+ 31  Book 31  Author 31    Science Publisher 33 1975  0 0.57
+ 32  Book 32  Author 26    History Publisher 33 1977  5 2.90
+ 33  Book 33  Author 47  Education Publisher 26 1986  4 1.86
+ 34  Book 34  Author 36    Science Publisher 40 1999  4 2.20
+ 35  Book 35  Author 32  Education Publisher 13 2023 10 3.26
+ 36  Book 36  Author 43    Science  Publisher 1 1979  5 2.20
+ 37  Book 37  Author 64    Science Publisher 34 2007  8 3.95
+ 38  Book 38  Author 90    Science Publisher 36 1973  9 0.81
+ 39  Book 39  Author 82    History Publisher 39 2014  0 4.77
+ 40  Book 40  Author 58  Education Publisher 20 2002  4 2.72
+ 41  Book 41  Author 59 Literature Publisher 11 1961  5 3.05
+ 42  Book 42  Author 68    History Publisher 41 1960  2 4.15
+ 43  Book 43  Author 26  Education Publisher 26 1981  5 0.98
+ 44  Book 44  Author 55 Literature Publisher 43 2007  7 4.12
+ 45  Book 45  Author 27    Science Publisher 39 1993  3 2.78
+ 46  Book 46   Author 6        Art Publisher 50 1989  8 3.74
+ 47  Book 47  Author 40 Literature Publisher 20 1966  5 3.36
+ 48  Book 48   Author 9    History  Publisher 9 1974  2 5.00
+ 49  Book 49  Author 79 Literature Publisher 20 1969 10 0.85
+ 50  Book 50  Author 80  Education Publisher 37 2018 10 1.31
+ 51  Book 51  Author 25  Education Publisher 13 1993  6 1.01
+ 52  Book 52  Author 56    Science Publisher 39 1964  7 2.36
+ 53  Book 53  Author 63        Art Publisher 34 1995  9 4.34
+ 54  Book 54  Author 72    Science  Publisher 6 1995 10 1.44
+ 55  Book 55   Author 4 Literature Publisher 14 1967  7 4.70
+ 56  Book 56  Author 79 Literature Publisher 37 1988  6 4.15
+ 57  Book 57  Author 23    History Publisher 30 1975  2 2.48
+ 58  Book 58  Author 45    Science Publisher 27 1951  1 3.77
+ 59  Book 59  Author 80        Art Publisher 22 2008  0 3.95
+ 60  Book 60  Author 28 Literature Publisher 50 1998  0 3.55
+ 61  Book 61  Author 81    History Publisher 41 1974  1 0.52
+ 62  Book 62  Author 93    Science Publisher 11 1950  9 2.50
+ 63  Book 63  Author 93 Literature Publisher 34 2010  7 3.15
+ 64  Book 64  Author 70        Art Publisher 28 1986  6 2.22
+ 65  Book 65  Author 37    History Publisher 29 1992  0 0.82
+ 66  Book 66  Author 43  Education  Publisher 7 2023  9 4.95
+ 67  Book 67  Author 83 Literature  Publisher 9 2016  1 2.19
+ 68  Book 68  Author 34    Science Publisher 46 1953  5 2.08
+ 69  Book 69  Author 26  Education Publisher 35 1998  8 1.07
+ 70  Book 70  Author 15  Education Publisher 14 1975  0 3.24
+ 71  Book 71  Author 64 Literature Publisher 10 1996  9 1.18
+ 72  Book 72  Author 59 Literature Publisher 14 1967  0 2.60
+ 73  Book 73  Author 80 Literature  Publisher 1 1961  1 2.14
+ 74  Book 74  Author 85 Literature Publisher 32 2003  7 2.84
+ 75  Book 75  Author 82    History Publisher 18 2015  2 1.65
+ 76  Book 76  Author 97        Art  Publisher 6 1954  4 3.14
+ 77  Book 77  Author 67    History Publisher 25 2001  6 0.51
+ 78  Book 78  Author 92        Art Publisher 32 2011  8 1.60
+ 79  Book 79  Author 62    History Publisher 10 2021  7 1.71
+ 80  Book 80  Author 88        Art  Publisher 1 2010 10 1.86
+ 81  Book 81  Author 42 Literature Publisher 28 2019  6 1.34
+ 82  Book 82  Author 39    Science Publisher 17 1967  7 3.26
+ 83  Book 83  Author 10    History  Publisher 3 1975 10 3.93
+ 84  Book 84  Author 64  Education Publisher 32 1983  9 4.49
+ 85  Book 85  Author 93    History Publisher 20 1993  6 2.47
+ 86  Book 86  Author 25    Science Publisher 26 1950  4 4.35
+ 87  Book 87  Author 62    Science Publisher 38 1991  3 4.30
+ 88  Book 88  Author 68        Art Publisher 41 1992  4 4.81
+ 89  Book 89  Author 81    Science Publisher 17 1998  9 1.93
+ 90  Book 90  Author 82    History  Publisher 5 1962  9 3.77
+ 91  Book 91 Author 100  Education Publisher 30 2017  7 1.33
+ 92  Book 92  Author 56 Literature Publisher 44 1987  7 3.99
+ 93  Book 93  Author 32 Literature  Publisher 9 1955  1 4.21
+ 94  Book 94  Author 22 Literature Publisher 43 1977  9 0.68
+ 95  Book 95  Author 39 Literature Publisher 37 2011  8 3.09
+ 96  Book 96  Author 13    History Publisher 50 2020 10 0.73
+ 97  Book 97  Author 33    Science  Publisher 8 1977  2 1.83
+ 98  Book 98  Author 76    History Publisher 14 1974  8 1.26
+ 99  Book 99 Author 100  Education Publisher 27 1961  6 3.27
+100 Book 100  Author 47  Education Publisher 26 2002  6 1.17
+101 Book 101  Author 41 Literature Publisher 37 1967  9 0.89
+102 Book 102  Author 74  Education  Publisher 1 2014  3 0.52
+103 Book 103   Author 2        Art Publisher 25 1962  9 1.49
+104 Book 104  Author 30  Education Publisher 26 1970 10 3.86
+105 Book 105  Author 55        Art Publisher 13 1961  5 1.74
+106 Book 106  Author 89    Science Publisher 34 2004  3 3.91
+107 Book 107  Author 93 Literature Publisher 24 1987  4 0.53
+108 Book 108  Author 41        Art Publisher 38 1997  7 0.56
+109 Book 109  Author 31  Education Publisher 41 1960  6 1.75
+110 Book 110  Author 60  Education  Publisher 1 2023  8 3.26
+111 Book 111  Author 21 Literature Publisher 22 1955 10 4.15
+112 Book 112  Author 53        Art Publisher 35 1982  9 1.49
+113 Book 113  Author 93  Education Publisher 20 1955  6 2.54
+114 Book 114  Author 75        Art Publisher 37 1967  0 2.08
+115 Book 115  Author 77    History Publisher 28 1980  7 4.97
+116 Book 116  Author 48    History Publisher 36 1961  8 2.79
+117 Book 117  Author 13    Science Publisher 37 1997  4 1.82
+118 Book 118  Author 65        Art Publisher 45 1991  7 1.47
+119 Book 119   Author 4        Art Publisher 33 1993  2 1.48
+120 Book 120  Author 53 Literature Publisher 26 1957  2 4.10
+121 Book 121   Author 2    History  Publisher 2 1989  3 3.17
+122 Book 122  Author 36    Science Publisher 31 1965 10 3.26
+123 Book 123  Author 50    Science Publisher 20 1983  2 3.71
+124 Book 124  Author 36    History Publisher 20 1983  9 4.41
+125 Book 125  Author 15 Literature  Publisher 6 1970  3 1.03
+126 Book 126   Author 9    Science  Publisher 3 1986  6 1.28
+127 Book 127  Author 12    Science  Publisher 5 2009  6 0.53
+128 Book 128  Author 47  Education Publisher 43 1965  1 3.75
+129 Book 129 Author 100  Education Publisher 29 1971  7 3.91
+130 Book 130  Author 79    History Publisher 16 1998  3 2.14
+131 Book 131   Author 3        Art Publisher 24 1974  3 2.96
+132 Book 132  Author 35        Art  Publisher 7 1973  6 3.49
+133 Book 133  Author 43        Art Publisher 20 1958  4 3.98
+134 Book 134  Author 22        Art Publisher 13 2021  5 4.22
+135 Book 135  Author 99  Education Publisher 43 2012  5 4.09
+136 Book 136  Author 94    History Publisher 39 1975  0 3.71
+137 Book 137  Author 31    History Publisher 13 1996  2 2.19
+138 Book 138  Author 15    History  Publisher 8 1966  2 3.47
+139 Book 139  Author 37  Education Publisher 11 1995  6 3.14
+140 Book 140  Author 87    History Publisher 36 2022  0 2.24
+141 Book 141  Author 39        Art Publisher 12 1977  0 3.21
+142 Book 142  Author 23 Literature  Publisher 4 1992  9 1.17
+143 Book 143  Author 21 Literature  Publisher 4 1974  4 2.20
+144 Book 144  Author 83    History Publisher 34 1982  4 0.85
+145 Book 145   Author 5  Education Publisher 35 1955  6 2.49
+146 Book 146  Author 90        Art Publisher 28 2000  6 0.70
+147 Book 147  Author 48  Education Publisher 29 2016  0 3.14
+148 Book 148   Author 8    History  Publisher 9 1986  6 4.87
+149 Book 149  Author 41        Art Publisher 20 1982  7 4.83
+150 Book 150  Author 97    History Publisher 10 2009  3 3.35
+151 Book 151  Author 75 Literature Publisher 49 1991  6 0.63
+152 Book 152  Author 75 Literature  Publisher 3 1956  9 1.51
+153 Book 153  Author 61        Art Publisher 24 2013  2 0.75
+154 Book 154   Author 5    Science Publisher 49 1980  3 2.17
+155 Book 155  Author 14        Art Publisher 38 2013  3 2.25
+156 Book 156  Author 26 Literature  Publisher 8 1957  4 4.24
+157 Book 157  Author 14  Education Publisher 36 2019  3 2.17
+158 Book 158  Author 97        Art Publisher 14 1965  6 0.79
+159 Book 159  Author 32 Literature Publisher 22 2011  8 2.50
+160 Book 160  Author 10 Literature Publisher 18 1969  1 2.38
+161 Book 161  Author 98 Literature  Publisher 7 2014  9 3.83
+162 Book 162  Author 41 Literature Publisher 35 2011  1 3.92
+163 Book 163  Author 35 Literature Publisher 29 1987  7 3.16
+164 Book 164  Author 93    Science Publisher 42 1976  2 2.61
+165 Book 165  Author 61    Science Publisher 49 1959  2 4.67
+166 Book 166  Author 49    Science Publisher 25 2022  0 3.18
+167 Book 167  Author 42 Literature Publisher 35 1966  3 3.75
+168 Book 168  Author 35        Art Publisher 30 2010  5 3.69
+169 Book 169  Author 60        Art Publisher 31 1956  8 1.97
+170 Book 170  Author 97        Art Publisher 10 2015  5 1.18
+171 Book 171  Author 15    History Publisher 36 2020  5 1.55
+172 Book 172  Author 41 Literature  Publisher 6 2001  3 2.89
+173 Book 173  Author 23    History Publisher 16 1962 10 3.70
+174 Book 174  Author 68  Education Publisher 28 1987  0 1.18
+175 Book 175  Author 79        Art Publisher 31 1997  2 1.80
+176 Book 176  Author 37 Literature Publisher 37 2008  6 2.35
+177 Book 177  Author 84        Art Publisher 44 1987  4 1.81
+178 Book 178  Author 58    History Publisher 38 1996  4 4.65
+179 Book 179  Author 57  Education Publisher 23 1981  6 3.13
+180 Book 180  Author 44    History Publisher 35 2000 10 4.11
+181 Book 181  Author 56    Science  Publisher 4 2000  6 0.69
+182 Book 182  Author 31  Education Publisher 25 1995  8 0.55
+183 Book 183  Author 19    Science Publisher 11 1991  4 3.65
+184 Book 184  Author 67    Science Publisher 24 1989  5 3.93
+185 Book 185  Author 51    History  Publisher 6 1967  0 4.91
+186 Book 186  Author 75 Literature Publisher 45 2001  0 4.20
+187 Book 187   Author 9    Science Publisher 24 1971  8 0.96
+188 Book 188  Author 55  Education Publisher 17 2021  2 4.78
+189 Book 189  Author 53  Education Publisher 13 2006 10 0.77
+190 Book 190  Author 43    History Publisher 18 2004  9 2.07
+191 Book 191  Author 19    Science Publisher 32 1956  2 3.17
+192 Book 192  Author 20        Art  Publisher 5 1979  6 2.05
+193 Book 193  Author 14  Education Publisher 19 1968  1 3.69
+194 Book 194  Author 16    Science Publisher 38 2005  8 3.83
+195 Book 195  Author 23    History Publisher 30 1993  4 3.28
+196 Book 196  Author 96 Literature Publisher 32 2022  9 0.99
+197 Book 197  Author 70        Art  Publisher 1 1988  2 2.48
+198 Book 198  Author 79        Art Publisher 43 1997 10 2.49
+199 Book 199  Author 22 Literature Publisher 11 1965  6 3.32
+200 Book 200  Author 45  Education Publisher 21 2013  3 3.11
+201 Book 201  Author 27  Education Publisher 10 1982  2 3.47
+202 Book 202  Author 68    Science Publisher 24 1951  8 3.64
+203 Book 203  Author 40        Art Publisher 26 1988 10 2.02
+204 Book 204  Author 23        Art Publisher 28 1950  5 0.52
+205 Book 205  Author 75 Literature Publisher 18 2014  1 1.20
+206 Book 206  Author 22 Literature  Publisher 5 2011  8 1.58
+207 Book 207 Author 100        Art Publisher 31 1984  2 3.60
+208 Book 208  Author 76  Education Publisher 17 1975  6 2.39
+209 Book 209  Author 83  Education Publisher 45 2017  1 3.07
+210 Book 210  Author 68        Art  Publisher 2 1956  2 2.23
+211 Book 211  Author 89    History Publisher 17 2010  7 3.68
+212 Book 212  Author 78  Education Publisher 40 1992  7 3.85
+213 Book 213  Author 14 Literature Publisher 32 1955  1 1.82
+214 Book 214  Author 23        Art  Publisher 4 1991  3 4.56
+215 Book 215  Author 74    History  Publisher 5 2017  6 4.16
+216 Book 216  Author 16  Education Publisher 43 1974  9 4.78
+217 Book 217  Author 16    Science Publisher 37 1975 10 4.30
+218 Book 218  Author 94    History Publisher 24 1954  8 1.40
+219 Book 219  Author 43 Literature Publisher 34 1956  6 0.52
+220 Book 220  Author 69        Art Publisher 33 1967  3 3.19
+221 Book 221  Author 89  Education Publisher 49 2005 10 4.32
+222 Book 222  Author 29 Literature Publisher 28 1960  3 4.15
+223 Book 223  Author 58  Education Publisher 39 1961 10 4.31
+224 Book 224  Author 99        Art Publisher 41 1956  7 3.55
+225 Book 225   Author 8 Literature Publisher 44 1950  3 1.38
+226 Book 226   Author 7        Art Publisher 48 2005  7 4.87
+227 Book 227   Author 2    History Publisher 43 1957  5 2.10
+228 Book 228  Author 86    Science Publisher 45 1966  7 0.62
+229 Book 229  Author 10        Art  Publisher 4 1981  1 2.65
+230 Book 230  Author 35  Education Publisher 10 2014  6 1.22
+231 Book 231  Author 30  Education  Publisher 1 1991  5 2.81
+232 Book 232  Author 31 Literature Publisher 47 2017  7 4.69
+233 Book 233  Author 53    Science  Publisher 5 1969  2 3.59
+234 Book 234   Author 7 Literature  Publisher 8 1977  5 2.98
+235 Book 235  Author 57        Art  Publisher 7 1953  4 2.10
+236 Book 236  Author 69    Science  Publisher 3 2022  8 3.10
+237 Book 237  Author 42    Science  Publisher 2 1958  5 4.35
+238 Book 238  Author 79        Art  Publisher 8 2007  8 0.92
+239 Book 239  Author 12    Science Publisher 36 2009  6 1.57
+240 Book 240  Author 76  Education Publisher 48 2006  6 3.72
+241 Book 241   Author 6    Science Publisher 43 2008  1 4.08
+242 Book 242  Author 11    Science  Publisher 3 1993  2 4.29
+243 Book 243  Author 75    Science Publisher 14 2020  8 0.57
+244 Book 244  Author 42  Education Publisher 27 1959  1 4.41
+245 Book 245  Author 55  Education Publisher 17 1980  9 1.28
+246 Book 246   Author 8    History Publisher 39 1968 10 3.68
+247 Book 247  Author 33  Education  Publisher 8 2022  4 0.62
+248 Book 248  Author 32        Art Publisher 50 1974 10 2.53
+249 Book 249   Author 1    History Publisher 20 2016  2 2.50
+250 Book 250  Author 95    Science Publisher 26 2023  8 3.75
+251 Book 251  Author 57    History Publisher 44 2001  6 2.01
+252 Book 252  Author 39        Art Publisher 28 1980  4 3.16
+253 Book 253  Author 38 Literature Publisher 28 1967  1 3.01
+254 Book 254  Author 27 Literature Publisher 23 1993  3 1.46
+255 Book 255  Author 13        Art Publisher 34 1969  7 4.73
+256 Book 256  Author 66  Education Publisher 46 2017  9 1.10
+257 Book 257  Author 76        Art Publisher 18 2009  0 1.15
+258 Book 258  Author 31        Art Publisher 29 1956  6 2.11
+259 Book 259  Author 49    History Publisher 18 1961 10 3.95
+260 Book 260   Author 9 Literature  Publisher 4 1997 10 4.68
+261 Book 261  Author 65    History Publisher 32 1992  7 4.62
+262 Book 262  Author 54  Education  Publisher 9 1961  4 2.39
+263 Book 263  Author 99        Art Publisher 27 1992  3 2.02
+264 Book 264  Author 42    Science  Publisher 8 1983 10 0.91
+265 Book 265  Author 18  Education Publisher 22 2012  4 3.01
+266 Book 266   Author 6    History  Publisher 2 2001  8 4.60
+267 Book 267  Author 38        Art Publisher 38 1978  2 2.65
+268 Book 268  Author 33        Art Publisher 28 2012  9 3.32
+269 Book 269  Author 11    History  Publisher 7 1993  5 0.51
+270 Book 270  Author 79    Science Publisher 46 1950  4 0.93
+271 Book 271  Author 63    History Publisher 42 1994  7 0.87
+272 Book 272  Author 59  Education Publisher 46 1977  2 4.93
+273 Book 273  Author 91    Science  Publisher 8 2004  3 0.76
+274 Book 274  Author 49        Art  Publisher 2 1984  9 1.44
+275 Book 275  Author 15 Literature Publisher 15 1990  5 4.01
+276 Book 276  Author 35  Education Publisher 31 1952  6 1.99
+277 Book 277   Author 9    Science Publisher 22 2011  8 4.43
+278 Book 278  Author 73    History Publisher 17 1958  8 4.46
+279 Book 279  Author 85        Art Publisher 40 1989  8 4.55
+280 Book 280  Author 56    History Publisher 30 1957  5 4.63
+281 Book 281 Author 100 Literature Publisher 10 1978  7 4.10
+282 Book 282  Author 97  Education Publisher 19 2004  9 0.89
+283 Book 283  Author 99    Science Publisher 33 1956  5 1.04
+284 Book 284  Author 45 Literature Publisher 33 1995  5 4.19
+285 Book 285  Author 89 Literature Publisher 40 2000  0 4.11
+286 Book 286  Author 29        Art Publisher 10 1967  5 4.23
+287 Book 287   Author 2        Art Publisher 10 1952  5 3.44
+288 Book 288  Author 41    Science Publisher 22 1984  3 4.33
+289 Book 289   Author 1 Literature  Publisher 1 1967  9 1.50
+290 Book 290   Author 2    History Publisher 28 1971  8 3.69
+291 Book 291  Author 54    History Publisher 27 1973  6 2.44
+292 Book 292  Author 15    History Publisher 38 2020  3 3.66
+293 Book 293  Author 80    Science Publisher 23 1999  0 0.54
+294 Book 294  Author 45 Literature Publisher 46 1953  0 2.05
+295 Book 295  Author 60 Literature Publisher 44 1956  3 0.91
+296 Book 296  Author 45 Literature Publisher 23 2000  9 4.82
+297 Book 297  Author 41    History Publisher 44 2018  3 1.59
+298 Book 298  Author 47 Literature Publisher 45 2002  5 1.03
+299 Book 299  Author 59    Science Publisher 47 1993  6 0.89
+300 Book 300   Author 7        Art Publisher 45 1957  1 3.69
+301 Book 301   Author 7    Science Publisher 15 1959  6 3.37
+302 Book 302   Author 2    Science Publisher 16 1969  8 0.70
+303 Book 303  Author 97    History Publisher 46 1961  5 2.55
+304 Book 304  Author 98 Literature  Publisher 8 2021 10 4.38
+305 Book 305  Author 80  Education Publisher 46 1977  3 0.53
+306 Book 306  Author 11    Science  Publisher 8 2000  2 4.92
+307 Book 307  Author 39        Art Publisher 43 1978  4 1.76
+308 Book 308  Author 91        Art Publisher 20 1969  0 4.05
+309 Book 309  Author 34        Art Publisher 32 1952  1 2.01
+310 Book 310   Author 7 Literature Publisher 27 1973  8 0.94
+311 Book 311  Author 18  Education Publisher 36 2012 10 3.98
+312 Book 312  Author 95 Literature Publisher 43 1959  5 0.79
+313 Book 313  Author 89    History Publisher 48 1972  9 2.15
+314 Book 314  Author 60  Education Publisher 11 1969  8 3.72
+315 Book 315  Author 97 Literature Publisher 39 1958  6 3.63
+316 Book 316  Author 11  Education Publisher 42 2015  9 1.84
+317 Book 317  Author 30  Education Publisher 44 2010  6 1.08
+318 Book 318  Author 98    History Publisher 37 2009  2 2.52
+319 Book 319  Author 41 Literature Publisher 35 1987  0 2.99
+320 Book 320  Author 98 Literature Publisher 21 2015  6 2.28
+321 Book 321  Author 72        Art Publisher 25 1970  5 4.68
+322 Book 322  Author 26 Literature  Publisher 2 2003  7 1.59
+323 Book 323  Author 91 Literature  Publisher 9 1962  3 4.35
+324 Book 324  Author 20    Science  Publisher 6 2004  8 4.40
+325 Book 325  Author 13        Art Publisher 20 1981  7 3.67
+326 Book 326  Author 68 Literature Publisher 13 1984  2 1.71
+327 Book 327  Author 63    Science Publisher 21 1967  5 2.39
+328 Book 328  Author 32 Literature Publisher 29 2001  2 2.73
+329 Book 329  Author 31    History Publisher 37 2021  1 1.17
+330 Book 330  Author 83    Science Publisher 13 2017  2 3.84
+331 Book 331  Author 29    History Publisher 13 2023  4 3.62
+332 Book 332  Author 69  Education Publisher 50 1980  2 4.38
+333 Book 333  Author 35    Science Publisher 41 1964  1 4.21
+334 Book 334  Author 65    Science  Publisher 7 1970  9 2.54
+335 Book 335  Author 12    Science Publisher 13 1966  1 0.80
+336 Book 336   Author 7        Art Publisher 38 2012  7 1.84
+337 Book 337   Author 9    History Publisher 14 1974  0 2.87
+338 Book 338  Author 17    History  Publisher 8 2008  1 2.28
+339 Book 339  Author 32 Literature Publisher 18 1997  0 1.33
+340 Book 340  Author 59  Education Publisher 32 2018  3 4.12
+341 Book 341  Author 44    History  Publisher 4 1976  0 3.27
+342 Book 342  Author 46  Education Publisher 34 2016  3 2.13
+343 Book 343  Author 87    Science Publisher 22 1955  8 1.42
+344 Book 344  Author 38  Education Publisher 18 1981  3 4.38
+345 Book 345  Author 46 Literature Publisher 20 1994  5 3.45
+346 Book 346  Author 52 Literature Publisher 18 1972  5 4.48
+347 Book 347  Author 14    Science Publisher 40 1959  9 0.86
+348 Book 348  Author 14    History Publisher 31 1958  1 4.59
+349 Book 349  Author 39    History Publisher 17 2003  4 3.03
+350 Book 350  Author 26  Education Publisher 39 1968  2 3.59
+351 Book 351  Author 48        Art  Publisher 3 2002  2 3.09
+352 Book 352  Author 10  Education Publisher 29 2006  6 0.88
+353 Book 353   Author 9        Art Publisher 49 2013  7 2.00
+354 Book 354  Author 54 Literature  Publisher 2 2015  6 4.56
+355 Book 355  Author 45 Literature Publisher 11 1963  8 4.46
+356 Book 356  Author 54        Art Publisher 23 1980  3 1.36
+357 Book 357  Author 47        Art Publisher 24 2004  3 4.93
+358 Book 358   Author 5  Education Publisher 33 1973  4 4.41
+359 Book 359  Author 10        Art Publisher 45 1958  9 4.29
+360 Book 360  Author 70    History  Publisher 9 1953  3 3.80
+361 Book 361  Author 92 Literature Publisher 28 1974  2 2.00
+362 Book 362  Author 16 Literature Publisher 15 2008  3 4.17
+363 Book 363   Author 9 Literature Publisher 25 2000  4 2.20
+364 Book 364  Author 62 Literature Publisher 46 1963  4 2.82
+365 Book 365  Author 35        Art Publisher 16 1950  8 0.93
+366 Book 366  Author 80    History Publisher 19 1981  5 0.53
+367 Book 367  Author 79 Literature  Publisher 9 1954  2 4.10
+368 Book 368  Author 37 Literature Publisher 36 2001  3 2.64
+369 Book 369  Author 71    History Publisher 28 1957  9 4.76
+370 Book 370  Author 28        Art Publisher 34 1980  0 0.67
+371 Book 371  Author 47    Science Publisher 42 1951  0 2.13
+372 Book 372  Author 76    Science  Publisher 9 2020  4 3.84
+373 Book 373  Author 56 Literature Publisher 22 2013  8 0.68
+374 Book 374  Author 36        Art  Publisher 1 2013  3 4.57
+375 Book 375  Author 19    Science Publisher 17 1993  0 4.21
+376 Book 376  Author 80  Education Publisher 14 2011  0 4.66
+377 Book 377  Author 25    History Publisher 30 1999  7 1.87
+378 Book 378  Author 59 Literature Publisher 18 1983  2 2.60
+379 Book 379  Author 29    History Publisher 43 2006  6 3.06
+380 Book 380  Author 65    History  Publisher 4 1974  2 4.73
+381 Book 381  Author 19    Science Publisher 36 2014  5 2.16
+382 Book 382  Author 90    History Publisher 29 1977 10 0.89
+383 Book 383  Author 85  Education  Publisher 6 2014  8 2.79
+384 Book 384  Author 98        Art Publisher 21 1950 10 2.91
+385 Book 385  Author 11    Science Publisher 38 1963  6 4.94
+386 Book 386  Author 45    Science  Publisher 3 2017 10 3.65
+387 Book 387  Author 22  Education  Publisher 6 1965  6 0.66
+388 Book 388  Author 61 Literature  Publisher 5 2022  5 0.68
+389 Book 389  Author 98 Literature Publisher 41 1974  5 4.37
+390 Book 390  Author 49    Science  Publisher 1 1953  6 4.91
+391 Book 391  Author 30        Art Publisher 50 2011  0 2.90
+392 Book 392  Author 72    Science Publisher 32 1951  6 4.73
+393 Book 393  Author 98  Education Publisher 12 2014 10 4.92
+394 Book 394  Author 24 Literature Publisher 29 1994  9 0.76
+395 Book 395   Author 2    Science Publisher 49 1974  3 1.65
+396 Book 396  Author 43  Education Publisher 12 2019  0 4.95
+397 Book 397  Author 74    History Publisher 42 1982  9 4.69
+398 Book 398  Author 47        Art Publisher 15 2018  1 2.43
+399 Book 399   Author 8        Art Publisher 29 2017 10 4.68
+400 Book 400  Author 71 Literature Publisher 21 1950 10 0.67
+401 Book 401  Author 36  Education Publisher 20 2001  9 3.10
+402 Book 402  Author 27  Education  Publisher 5 1967  2 1.18
+403 Book 403  Author 27    History  Publisher 2 2003  4 3.49
+404 Book 404  Author 96  Education Publisher 48 1977  5 2.11
+405 Book 405  Author 47 Literature Publisher 27 1977  1 4.12
+406 Book 406  Author 25    History Publisher 44 2019  3 2.77
+407 Book 407  Author 68  Education  Publisher 6 1996  0 2.39
+408 Book 408  Author 86 Literature Publisher 45 1985 10 0.82
+409 Book 409  Author 80    History  Publisher 8 2019  2 4.64
+410 Book 410  Author 40  Education Publisher 23 1980  0 4.51
+411 Book 411  Author 22        Art Publisher 26 1982  8 0.52
+412 Book 412  Author 89    Science Publisher 24 1996  7 4.87
+413 Book 413  Author 40        Art Publisher 47 2023  9 2.90
+414 Book 414  Author 43    History  Publisher 4 1956  7 1.13
+415 Book 415  Author 51    Science  Publisher 5 1976  4 3.24
+416 Book 416  Author 52        Art Publisher 32 1956 10 1.10
+417 Book 417  Author 90    Science Publisher 38 1999  1 2.04
+418 Book 418  Author 62    History Publisher 13 1996  7 1.88
+419 Book 419  Author 57  Education Publisher 50 1983  3 0.84
+420 Book 420  Author 75    History Publisher 21 1995  7 1.68
+421 Book 421  Author 75    Science  Publisher 3 1997  0 2.74
+422 Book 422   Author 9  Education  Publisher 1 2000  4 3.93
+423 Book 423  Author 38  Education Publisher 32 1952  4 2.33
+424 Book 424  Author 63  Education Publisher 28 1988  0 4.82
+425 Book 425  Author 28  Education  Publisher 2 2008  8 1.99
+426 Book 426  Author 99    History Publisher 30 2016  5 3.85
+427 Book 427  Author 31        Art Publisher 23 2016  5 2.87
+428 Book 428  Author 98    History  Publisher 6 1975  3 3.34
+429 Book 429  Author 24    Science Publisher 19 1972  1 0.63
+430 Book 430  Author 75  Education  Publisher 6 2022  5 3.05
+431 Book 431  Author 17    History Publisher 47 1981  3 1.33
+432 Book 432  Author 78        Art Publisher 38 1950  0 4.36
+433 Book 433  Author 98    History Publisher 45 1958  5 2.61
+434 Book 434  Author 25    Science  Publisher 2 1970  2 1.97
+435 Book 435  Author 95  Education Publisher 22 1983  2 2.55
+436 Book 436  Author 10 Literature Publisher 23 1991  3 3.68
+437 Book 437  Author 41        Art  Publisher 9 1974  4 0.72
+438 Book 438  Author 32  Education  Publisher 7 1962  7 4.57
+439 Book 439  Author 47    Science Publisher 45 2012  6 5.00
+440 Book 440  Author 27 Literature  Publisher 5 1950  0 2.16
+441 Book 441  Author 18    History Publisher 27 1959  2 4.25
+442 Book 442  Author 41 Literature Publisher 20 2007  1 1.90
+443 Book 443   Author 5        Art Publisher 13 1951  1 0.71
+444 Book 444  Author 29        Art Publisher 16 1987  4 3.08
+445 Book 445  Author 37    Science Publisher 29 2012  2 0.65
+446 Book 446  Author 31 Literature Publisher 29 2015  6 2.89
+447 Book 447  Author 63        Art Publisher 46 1961 10 4.62
+448 Book 448  Author 65 Literature Publisher 42 2005  6 2.08
+449 Book 449  Author 77    Science Publisher 46 1993  1 2.79
+450 Book 450  Author 14        Art Publisher 49 1980  2 2.58
+451 Book 451  Author 98    History Publisher 29 2016  7 0.72
+452 Book 452  Author 92  Education Publisher 24 1952  7 3.88
+453 Book 453  Author 68    Science Publisher 11 1960 10 4.41
+454 Book 454  Author 35    History Publisher 24 1963  2 4.07
+455 Book 455  Author 99        Art Publisher 15 2009 10 3.72
+456 Book 456  Author 14 Literature  Publisher 8 2010  0 2.31
+457 Book 457  Author 50 Literature Publisher 47 2017  7 4.04
+458 Book 458  Author 48    Science Publisher 13 1952  9 3.80
+459 Book 459  Author 68  Education  Publisher 3 2000  9 2.01
+460 Book 460  Author 93  Education Publisher 20 1981  2 1.10
+461 Book 461  Author 64 Literature  Publisher 4 1963  4 0.53
+462 Book 462  Author 19    History Publisher 30 2009  5 4.55
+463 Book 463  Author 42    Science Publisher 22 2021  5 3.22
+464 Book 464  Author 18        Art Publisher 34 1967  6 3.16
+465 Book 465  Author 16 Literature Publisher 47 1996 10 3.62
+466 Book 466  Author 90    History Publisher 24 1974 10 3.75
+467 Book 467  Author 70    History Publisher 17 1997  4 1.74
+468 Book 468  Author 23    History Publisher 43 2014  8 2.44
+469 Book 469  Author 67 Literature Publisher 26 1950  2 2.29
+470 Book 470  Author 75  Education Publisher 26 1971  8 4.77
+471 Book 471  Author 18 Literature Publisher 11 1984  8 1.83
+472 Book 472  Author 48    Science Publisher 44 1975  0 1.16
+473 Book 473  Author 75 Literature  Publisher 3 1950  2 0.54
+474 Book 474  Author 15        Art Publisher 30 1999 10 1.88
+475 Book 475   Author 1    Science Publisher 11 1991  6 4.07
+476 Book 476  Author 26 Literature Publisher 33 1956  9 0.78
+477 Book 477  Author 46 Literature Publisher 29 2023  6 3.33
+478 Book 478  Author 18    Science Publisher 35 1987  0 1.80
+479 Book 479  Author 47    Science Publisher 47 2016  6 4.65
+480 Book 480   Author 4  Education  Publisher 4 2002  1 3.36
+481 Book 481  Author 46    Science Publisher 28 1981  6 2.63
+482 Book 482  Author 94    Science Publisher 26 1953  1 1.99
+483 Book 483  Author 49    History Publisher 48 1976  1 0.68
+484 Book 484  Author 28    History Publisher 11 1994  1 2.46
+485 Book 485  Author 47    History  Publisher 6 1956  5 4.27
+486 Book 486  Author 27    History Publisher 38 1976  3 4.88
+487 Book 487  Author 71    Science  Publisher 4 1986 10 3.40
+488 Book 488  Author 53 Literature Publisher 40 1956  4 1.12
+489 Book 489   Author 7  Education Publisher 29 1968  3 1.17
+490 Book 490  Author 69    Science Publisher 29 1996  5 2.95
+491 Book 491  Author 94        Art  Publisher 3 2022  8 2.13
+492 Book 492  Author 94    Science Publisher 19 1998  1 1.66
+493 Book 493  Author 92 Literature Publisher 35 1974  7 1.87
+494 Book 494  Author 91    Science Publisher 35 1977  2 2.16
+495 Book 495  Author 14    Science Publisher 10 1957  7 4.45
+496 Book 496  Author 69 Literature Publisher 16 1986  3 2.07
+497 Book 497  Author 39        Art Publisher 16 1982  4 2.83
+498 Book 498  Author 38    Science Publisher 28 2010  4 2.23
+499 Book 499  Author 85    Science  Publisher 3 2004  3 1.01
+500 Book 500  Author 30 Literature Publisher 25 2018  2 4.96
